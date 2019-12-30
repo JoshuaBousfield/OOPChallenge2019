@@ -19,5 +19,6 @@ public class Main {
         System.out.println("\n");
         DeluxeBurger deluxeBurger = new DeluxeBurger();
         deluxeBurger.orderDeluxe();
+        System.out.println("useless comment");
     }
 }
